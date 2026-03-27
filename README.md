@@ -1,6 +1,23 @@
 # LLM Generated Synthetic Data versus Real Data for Predicting Tuberculosis Treatment Duration
 
 ---
+## Abstract
+
+The research aims to generate a synthetic TB dataset 
+using ChatGPT-5.1 Plus through structured prompt engineering, replicating a real-world dataset 
+comprising of 1693 patients with 6 key features sourced from the University of Malaya Medical 
+Centre (UMMC). The synthetic data was rigorously evaluated on 3 metrics which included fidelity, 
+privacy and utility. Subsequently, Linear Regression, Lasso Regression, Ridge Regression, Support 
+Vector Regression (SVR), Random Forest, and Gradient Boosting Regressor models are developed 
+using both real and synthetic data. The utility was then assessed through Train Synthetic Test 
+Synthetic (TSTS), and Train Synthetic Test Real (TSTR) frameworks. The results with the real dataset 
+showed increased performance relative to the study by Balakrishnan et al. (2024) with larger real 
+dataset. For synthetic dataset test, the results demonstrate that LLM generated synthetic data can 
+closely preserve the statistical characteristics of real TB data, achieve acceptable privacy protection, 
+and support predictive performance which was higher than the models trained on real data. This study 
+highlights the viability of LLM particularly ChatGPT 5.1 in generating synthetic dataset, enabling the 
+development of accurate predictive models while preserving patient privacy and overcoming data 
+accessibility barriers. 
 
 ## Table of Contents
 
