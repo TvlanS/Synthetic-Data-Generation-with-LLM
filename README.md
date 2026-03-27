@@ -433,7 +433,7 @@ Three training-testing schemes are used for utility evaluation:
 - It is recommended to conduct the research using the **ChatGPT API with temperature = 0** and a **dataset with more significant features** to further validate these findings.
 
 ---
-
+# For further details on this research feel free to contact me
 ## Abbreviations
 
 | Abbreviation | Full Form |
