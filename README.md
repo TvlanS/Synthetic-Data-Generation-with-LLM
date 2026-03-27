@@ -302,17 +302,17 @@ Three training-testing schemes are used for utility evaluation:
 
 <p align="center">
   <strong>Figure: Bell Curve Prompt F</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20F.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20F.png" width="500">
 </p>
 
 <p align="center">
   <strong>Figure: Bell Curve Prompt FT+</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20FT%2B.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20FT%2B.png" width="500">
 </p>
 
 <p align="center">
   <strong>Figure: Bell Curve Prompt FT</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20FT.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20FT.png" width="500">
 </p>
 
 
