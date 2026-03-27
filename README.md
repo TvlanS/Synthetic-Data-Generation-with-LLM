@@ -381,7 +381,7 @@ Three training-testing schemes are used for utility evaluation:
 
 <p align="center">
   <strong>Figure: NNDR</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/NNDR.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/NNDR.png" width="500">
 </p>
 
 | Prompt | NNDR Score | Privacy Status |
@@ -402,17 +402,17 @@ Three training-testing schemes are used for utility evaluation:
 
 <p align="center">
   <strong>Figure: TSTS R²</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/TSTS%20R2.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/TSTS%20R2.png" width="500">
 </p>
 
 <p align="center">
   <strong>Figure: TSTS MAE</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/MAE%20TSTS.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/MAE%20TSTS.png" width="500">
 </p>
 
 <p align="center">
   <strong>Figure: TSTS RMSE</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/RMSE%20TSTS.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/RMSE%20TSTS.png" width="500">
 </p>
 
 
@@ -438,17 +438,17 @@ Three training-testing schemes are used for utility evaluation:
 
 <p align="center">
   <strong>Figure: TSTR R²</strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/TSTR%20r2.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/TSTR%20r2.png" width="500">
 </p>
 
 <p align="center">
   <strong>Figure: TSTR MAE </strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/MAE%20TSTR.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/MAE%20TSTR.png" width="500">
 </p>
 
 <p align="center">
   <strong>Figure: TSTR RMSE </strong><br>
-  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/RMSE%20TSTR.png" width="300">
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/RMSE%20TSTR.png" width="500">
 </p>
 
 
@@ -500,7 +500,6 @@ Three training-testing schemes are used for utility evaluation:
 - It is recommended to conduct the research using the **ChatGPT API with temperature = 0** and a **dataset with more significant features** to further validate these findings.
 
 ---
-# For further details on this research feel free to contact me
 ## Abbreviations
 
 | Abbreviation | Full Form |
@@ -552,4 +551,4 @@ Three training-testing schemes are used for utility evaluation:
 
 ---
 
-*This research was conducted using real TB patient data from the University of Malaya Medical Centre (UMMC), Kuala Lumpur, Malaysia.*
+* _For further details on this research feel free to contact me_
