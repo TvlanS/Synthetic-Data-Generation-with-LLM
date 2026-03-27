@@ -300,7 +300,21 @@ Three training-testing schemes are used for utility evaluation:
 
 ### Fidelity Testing: Treatment Duration (Continuous Feature)
 
-<img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20F.png" width="300">
+<p align="center">
+  <strong>Figure: Bell Curve Prompt F</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20F.png" width="300">
+</p>
+
+<p align="center">
+  <strong>Figure: Bell Curve Prompt FT+</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20FT%2B.png" width="300">
+</p>
+
+<p align="center">
+  <strong>Figure: Bell Curve Prompt FT</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20FT.png" width="300">
+</p>
+
 
 | Prompt | Wasserstein Distance | MAE (Feature Mean Difference) |
 |---|---|---|
@@ -316,7 +330,6 @@ Three training-testing schemes are used for utility evaluation:
 ---
 
 ### Fidelity Testing: Discrete Features
-
 
 | Attributes | KL Divergence F/FT/FT+ | Spearman Correlation F/FT/FT+ | MAE F/FT/FT+ | Best Prompt |
 |---|---|---|---|---|
@@ -366,6 +379,11 @@ Three training-testing schemes are used for utility evaluation:
 
 ### Privacy Testing: NNDR Results
 
+<p align="center">
+  <strong>Figure: NNDR</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/NNDR.png" width="300">
+</p>
+
 | Prompt | NNDR Score | Privacy Status |
 |---|---|---|
 | **F** | 0.56 | ✅ Preserved |
@@ -381,6 +399,21 @@ Three training-testing schemes are used for utility evaluation:
 ---
 
 ### Utility Testing: TSTS Modelling
+
+<p align="center">
+  <strong>Figure: TSTS R²</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/TSTS%20R2.png" width="300">
+</p>
+
+<p align="center">
+  <strong>Figure: TSTS MAE</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/MAE%20TSTS.png" width="300">
+</p>
+
+<p align="center">
+  <strong>Figure: TSTS RMSE</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/RMSE%20TSTS.png" width="300">
+</p>
 
 
 | Prompts | Best Model | R² | MAE | RMSE |
@@ -402,6 +435,21 @@ Three training-testing schemes are used for utility evaluation:
 ---
 
 ### Utility Testing: TSTR Modelling
+
+<p align="center">
+  <strong>Figure: TSTR R²</strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/TSTR%20r2.png" width="300">
+</p>
+
+<p align="center">
+  <strong>Figure: TSTR MAE </strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/MAE%20TSTR.png" width="300">
+</p>
+
+<p align="center">
+  <strong>Figure: TSTR RMSE </strong><br>
+  <img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/RMSE%20TSTR.png" width="300">
+</p>
 
 
 | Prompts | Best Model | R² | MAE | RMSE |
