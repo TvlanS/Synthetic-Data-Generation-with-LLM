@@ -300,6 +300,8 @@ Three training-testing schemes are used for utility evaluation:
 
 ### Fidelity Testing: Treatment Duration (Continuous Feature)
 
+<img src="https://github.com/TvlanS/Synthetic-Data-Generation-with-LLM/blob/9cab74231ccbc7813a461a7f3fd3251fcf217e40/Img/BC-Prompt%20F.png" width="300">
+
 | Prompt | Wasserstein Distance | MAE (Feature Mean Difference) |
 |---|---|---|
 | **F** | 34.387 | 23.513 |
